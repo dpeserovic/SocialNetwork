@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<users>
+		<user id="1" name="Ivan" surname="Ivanovic" username="ivan" password="ivan123"/>
+		<user id="2" name="Pero" surname="Peric" username="pero" password="pero123"/>
+		<user id="3" name="Josip" surname="Josipovic" username="josip" password="josip123"/>
+	</users>
+	<friends>
+		<friend my_id="1" friends_id="2"/>
+		<friend my_id="1" friends_id="3"/>
+	</friends>
+</root>

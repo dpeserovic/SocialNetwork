@@ -1,0 +1,22 @@
+﻿  Comment.cpp
+  Friend.cpp
+  Post.cpp
+  SN.cpp
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(99,5): warning C4102: 'stop': unreferenced label
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(156,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(161,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(166,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(188,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(226,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dario\Desktop\clone\SocialNetwork\SocialNetwork\SN.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+  SocialNetwork.cpp
+  stdafx.cpp
+  targetver.cpp
+  tinyxml2.cpp
+  User.cpp
+  Generating Code...
+  LINK : C:\Users\Dario\Desktop\clone\SocialNetwork\Debug\SocialNetwork.exe not found or not built by the last incremental link; performing full link
+  SocialNetwork.vcxproj -> C:\Users\Dario\Desktop\clone\SocialNetwork\Debug\SocialNetwork.exe
